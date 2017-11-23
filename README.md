@@ -1,2 +1,2 @@
-## Node Social
+## NodeJS Social Project
 > by YoProgrammer
